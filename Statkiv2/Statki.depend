@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1520966212 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\statki\plansza.cpp
+
+1521648150 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\statki\main.cpp
+	<iostream>
+	<conio.h>
+	"Gracz.h"
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	"Rozgrywka.h"
+
+1521707921 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\statki\gracz.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	"Gracz.h"
+
+1521709433 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\statki\rozgrywka.cpp
+	"Rozgrywka.h"
+	<cstdlib>
+	<algorithm>
+	<cstring>
+	<windows.h>
+	<conio.h>
+
+1521707754 d:\studia\archiwum\programowanie c++\moje_programy\c++\statki\gracz.h
+	<iostream>
+
+1521647880 d:\studia\archiwum\programowanie c++\moje_programy\c++\statki\rozgrywka.h
+	"Gracz.h"
+
+1521711521 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\gry\statki\gracz.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	"Gracz.h"
+
+1522520117 d:\studia\archiwum\programowanie c++\moje_programy\c++\gry\statki\gracz.h
+	<iostream>
+
+1522520256 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\gry\statki\main.cpp
+	<iostream>
+	<conio.h>
+	"Gracz.h"
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	"Rozgrywka.h"
+
+1522520117 d:\studia\archiwum\programowanie c++\moje_programy\c++\gry\statki\rozgrywka.h
+	"Gracz.h"
+
+1522528815 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\gry\statki\rozgrywka.cpp
+	"Rozgrywka.h"
+	<cstdlib>
+	<algorithm>
+	<cstring>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1521711521 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\gry\statki — kopia\gracz.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	"Gracz.h"
+
+1522520117 d:\studia\archiwum\programowanie c++\moje_programy\c++\gry\statki — kopia\gracz.h
+	<iostream>
+
+1522520256 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\gry\statki — kopia\main.cpp
+	<iostream>
+	<conio.h>
+	"Gracz.h"
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	"Rozgrywka.h"
+
+1522520117 d:\studia\archiwum\programowanie c++\moje_programy\c++\gry\statki — kopia\rozgrywka.h
+	"Gracz.h"
+
+1522528815 source:d:\studia\archiwum\programowanie c++\moje_programy\c++\gry\statki — kopia\rozgrywka.cpp
+	"Rozgrywka.h"
+	<cstdlib>
+	<algorithm>
+	<cstring>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
