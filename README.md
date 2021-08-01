@@ -1,2 +1,2 @@
-# STATKI
+# BATTLESHIP
 Game Battleship implemented in C++
